@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif" alt="Header">
+</p>
+<h3 align="center">Hi there 👋, I'm Tomás</h3>
+<h3 align="center">Economist turned Data Scientist & AI Developer</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tomascorteral) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tomascortereal) 
