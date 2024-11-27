@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Hi there 👋, I'm Tomás</h3>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Economist+turned+Data+Scientist+%26+AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Economist+turned+Data+Scientist+%26+AI+Developer" alt="Typing SVG" />
 </h3>
 
 ## 🌐 Socials:
